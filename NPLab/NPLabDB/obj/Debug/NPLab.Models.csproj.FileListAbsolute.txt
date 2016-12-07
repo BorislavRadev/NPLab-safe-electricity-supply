@@ -1,0 +1,30 @@
+E:\project\NPLab\NPLab\NPLabDB\bin\Debug\NPLab.Models.dll.config
+E:\project\NPLab\NPLab\NPLabDB\bin\Debug\NPLab.Models.dll
+E:\project\NPLab\NPLab\NPLabDB\bin\Debug\NPLab.Models.pdb
+E:\project\NPLab\NPLab\NPLabDB\bin\Debug\EntityFramework.dll
+E:\project\NPLab\NPLab\NPLabDB\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\NPLab\NPLab\NPLabDB\bin\Debug\EntityFramework.xml
+E:\project\NPLab\NPLab\NPLabDB\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\NPLab\NPLab\NPLabDB\obj\Debug\NPLab.Models.dll
+E:\project\NPLab\NPLab\NPLabDB\obj\Debug\NPLab.Models.pdb
+E:\project\NPLab\NPLab\NPLabDB\obj\Debug\NPLab.Models.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\bin\Debug\NPLab.Models.dll.config
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\bin\Debug\NPLab.Models.dll
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\bin\Debug\NPLab.Models.pdb
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\obj\Debug\NPLab.Models.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\obj\Debug\NPLab.Models.dll
+C:\Users\Student\Documents\10a Radev\Project\NPLab\NPLabDB\obj\Debug\NPLab.Models.pdb
+C:\Users\Student\Documents\C#\Project\NPLabDB\bin\Debug\NPLab.Models.dll.config
+C:\Users\Student\Documents\C#\Project\NPLabDB\bin\Debug\NPLab.Models.dll
+C:\Users\Student\Documents\C#\Project\NPLabDB\bin\Debug\NPLab.Models.pdb
+C:\Users\Student\Documents\C#\Project\NPLabDB\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\C#\Project\NPLabDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\C#\Project\NPLabDB\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\C#\Project\NPLabDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\C#\Project\NPLabDB\obj\Debug\NPLab.Models.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\C#\Project\NPLabDB\obj\Debug\NPLab.Models.dll
+C:\Users\Student\Documents\C#\Project\NPLabDB\obj\Debug\NPLab.Models.pdb

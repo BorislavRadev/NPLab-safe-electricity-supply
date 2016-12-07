@@ -1,0 +1,114 @@
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.ResolveComReference.cache
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.Properties.Resources.resources
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.exe
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.exe
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.exe
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.Properties.Resources.resources
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.exe
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csprojResolveAssemblyReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.ResolveComReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.Properties.Resources.resources
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.GenerateResource.Cache
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.exe
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.exe
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.exe
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.Properties.Resources.resources
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.exe
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.exe
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.ResolveComReference.cache
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.Properties.Resources.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.exe
+C:\Users\Student\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.exe
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.xml
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csprojResolveAssemblyReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.ResolveComReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.Properties.Resources.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.GenerateResource.Cache
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.exe
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.exe
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.ResolveComReference.cache
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.Properties.Resources.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.GenerateResource.Cache
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.exe
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.pdb
+D:\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.exe
+D:\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Convert.pdb
+D:\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.dll
+D:\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.dll
+D:\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.dll
+D:\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Data.pdb
+D:\NPLab-master\NPLab.Convert\bin\Debug\NPLab.Models.pdb
+D:\NPLab-master\NPLab.Convert\bin\Debug\EntityFramework.xml
+D:\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csprojResolveAssemblyReference.cache
+D:\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.ResolveComReference.cache
+D:\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.Properties.Resources.resources
+D:\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.csproj.GenerateResource.Cache
+D:\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.exe
+D:\NPLab-master\NPLab.Convert\obj\x86\Debug\NPLab.Convert.pdb

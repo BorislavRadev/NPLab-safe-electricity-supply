@@ -1,0 +1,253 @@
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.csprojResolveAssemblyReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.GenerateResource.Cache
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.exe
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.exe
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Home.resources
+C:\Users\USER\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseObj.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseObj.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Home.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+C:\Users\Student\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.GenerateResource.Cache
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseObj.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Home.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+C:\Users\Teacher\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.GenerateResource.Cache
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.exe
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.csprojResolveAssemblyReference.cache
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseObj.resources
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.Home.resources
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+\\TEACHERZALA2\Share\C#\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.GenerateResource.Cache
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.exe
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csprojResolveAssemblyReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseObj.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Home.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.exe
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseObj.resources
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.Home.resources
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+C:\Users\USER\Documents\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.GenerateResource.Cache
+D:\NPLab-master\NPLab\bin\Debug\NPLab.exe.config
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.ResolveComReference.cache
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.exe
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.pdb
+D:\NPLab-master\NPLab\bin\Debug\NPLab.exe
+D:\NPLab-master\NPLab\bin\Debug\NPLab.pdb
+D:\NPLab-master\NPLab\bin\Debug\EntityFramework.dll
+D:\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.dll
+D:\NPLab-master\NPLab\bin\Debug\NPLab.Convert.exe
+D:\NPLab-master\NPLab\bin\Debug\NPLab.Data.dll
+D:\NPLab-master\NPLab\bin\Debug\NPLab.Models.dll
+D:\NPLab-master\NPLab\bin\Debug\NPLab.Convert.pdb
+D:\NPLab-master\NPLab\bin\Debug\NPLab.Data.pdb
+D:\NPLab-master\NPLab\bin\Debug\NPLab.Models.pdb
+D:\NPLab-master\NPLab\bin\Debug\EntityFramework.xml
+D:\NPLab-master\NPLab\bin\Debug\EntityFramework.SqlServer.xml
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.csprojResolveAssemblyReference.cache
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseAct.resources
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.DefRoom.resources
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.EditProtectors.resources
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.ChooseObj.resources
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.Home.resources
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.ImpRoom.resources
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.Main.resources
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.Properties.Resources.resources
+D:\NPLab-master\NPLab\obj\x86\Debug\NPLab.csproj.GenerateResource.Cache

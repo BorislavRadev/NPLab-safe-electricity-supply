@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NPLabModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="NPLabEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__MigrationHistory" EntityType="NPLabModel.C__MigrationHistory" />
+    <EntitySet Name="Cabels" EntityType="NPLabModel.Cabel" />
+    <EntitySet Name="EL_1" EntityType="NPLabModel.EL_1" />
+    <EntitySet Name="El_2" EntityType="NPLabModel.El_2" />
+    <EntitySet Name="EL_3" EntityType="NPLabModel.EL_3" />
+    <EntitySet Name="EL_3m" EntityType="NPLabModel.EL_3m" />
+    <EntitySet Name="EL_4" EntityType="NPLabModel.EL_4" />
+    <EntitySet Name="Engineers" EntityType="NPLabModel.Engineer" />
+    <EntitySet Name="Floors" EntityType="NPLabModel.Floor" />
+    <EntitySet Name="Floors_El_4" EntityType="NPLabModel.Floors_El_4" />
+    <EntitySet Name="Groundings" EntityType="NPLabModel.Grounding" />
+    <EntitySet Name="Installation_El_4" EntityType="NPLabModel.Installation_El_4" />
+    <EntitySet Name="InstallationItems" EntityType="NPLabModel.InstallationItem" />
+    <EntitySet Name="Installations" EntityType="NPLabModel.Installation" />
+    <EntitySet Name="LightningGroundings" EntityType="NPLabModel.LightningGrounding" />
+    <EntitySet Name="Objects" EntityType="NPLabModel.Object" />
+    <EntitySet Name="Rooms" EntityType="NPLabModel.Room" />
+    <EntitySet Name="Rooms_El_4" EntityType="NPLabModel.Rooms_El_4" />
+    <EntitySet Name="Sectors" EntityType="NPLabModel.Sector" />
+    <EntitySet Name="Sectors_El_4" EntityType="NPLabModel.Sectors_El_4" />
+    <AssociationSet Name="FK_dbo_Cabels_dbo_EL_1_EL_1Id" Association="NPLabModel.FK_dbo_Cabels_dbo_EL_1_EL_1Id">
+      <End Role="EL_1" EntitySet="EL_1" />
+      <End Role="Cabels" EntitySet="Cabels" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_EL_1_dbo_Objects_ObjectsId" Association="NPLabModel.FK_dbo_EL_1_dbo_Objects_ObjectsId">
+      <End Role="Objects" EntitySet="Objects" />
+      <End Role="EL_1" EntitySet="EL_1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_El_2_dbo_Objects_ObjectsId" Association="NPLabModel.FK_dbo_El_2_dbo_Objects_ObjectsId">
+      <End Role="Objects" EntitySet="Objects" />
+      <End Role="El_2" EntitySet="El_2" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Sectors_dbo_El_2_El_2Id" Association="NPLabModel.FK_dbo_Sectors_dbo_El_2_El_2Id">
+      <End Role="El_2" EntitySet="El_2" />
+      <End Role="Sectors" EntitySet="Sectors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_EL_3_dbo_Objects_ObjectsId" Association="NPLabModel.FK_dbo_EL_3_dbo_Objects_ObjectsId">
+      <End Role="Objects" EntitySet="Objects" />
+      <End Role="EL_3" EntitySet="EL_3" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Groundings_dbo_EL_3_EL_3Id" Association="NPLabModel.FK_dbo_Groundings_dbo_EL_3_EL_3Id">
+      <End Role="EL_3" EntitySet="EL_3" />
+      <End Role="Groundings" EntitySet="Groundings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_EL_3m_dbo_Objects_ObjectsId" Association="NPLabModel.FK_dbo_EL_3m_dbo_Objects_ObjectsId">
+      <End Role="Objects" EntitySet="Objects" />
+      <End Role="EL_3m" EntitySet="EL_3m" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_LightningGroundings_dbo_EL_3m_EL_3mId" Association="NPLabModel.FK_dbo_LightningGroundings_dbo_EL_3m_EL_3mId">
+      <End Role="EL_3m" EntitySet="EL_3m" />
+      <End Role="LightningGroundings" EntitySet="LightningGroundings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_EL_4_dbo_Objects_ObjectsId" Association="NPLabModel.FK_dbo_EL_4_dbo_Objects_ObjectsId">
+      <End Role="Objects" EntitySet="Objects" />
+      <End Role="EL_4" EntitySet="EL_4" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Sectors_El_4_dbo_EL_4_EL_4Id" Association="NPLabModel.FK_dbo_Sectors_El_4_dbo_EL_4_EL_4Id">
+      <End Role="EL_4" EntitySet="EL_4" />
+      <End Role="Sectors_El_4" EntitySet="Sectors_El_4" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Floors_dbo_Sectors_SectorsId" Association="NPLabModel.FK_dbo_Floors_dbo_Sectors_SectorsId">
+      <End Role="Sectors" EntitySet="Sectors" />
+      <End Role="Floors" EntitySet="Floors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Rooms_dbo_Floors_FloorsId" Association="NPLabModel.FK_dbo_Rooms_dbo_Floors_FloorsId">
+      <End Role="Floors" EntitySet="Floors" />
+      <End Role="Rooms" EntitySet="Rooms" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Floors_El_4_dbo_Sectors_El_4_SectorsId" Association="NPLabModel.FK_dbo_Floors_El_4_dbo_Sectors_El_4_SectorsId">
+      <End Role="Sectors_El_4" EntitySet="Sectors_El_4" />
+      <End Role="Floors_El_4" EntitySet="Floors_El_4" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Rooms_El_4_dbo_Floors_El_4_Floors_El_4Id" Association="NPLabModel.FK_dbo_Rooms_El_4_dbo_Floors_El_4_Floors_El_4Id">
+      <End Role="Floors_El_4" EntitySet="Floors_El_4" />
+      <End Role="Rooms_El_4" EntitySet="Rooms_El_4" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Installation_El_4_dbo_InstallationItems_Item_Id" Association="NPLabModel.FK_dbo_Installation_El_4_dbo_InstallationItems_Item_Id">
+      <End Role="InstallationItems" EntitySet="InstallationItems" />
+      <End Role="Installation_El_4" EntitySet="Installation_El_4" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Installation_El_4_dbo_Rooms_El_4_Rooms_El_4Id" Association="NPLabModel.FK_dbo_Installation_El_4_dbo_Rooms_El_4_Rooms_El_4Id">
+      <End Role="Rooms_El_4" EntitySet="Rooms_El_4" />
+      <End Role="Installation_El_4" EntitySet="Installation_El_4" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Installations_dbo_InstallationItems_Item_Id" Association="NPLabModel.FK_dbo_Installations_dbo_InstallationItems_Item_Id">
+      <End Role="InstallationItems" EntitySet="InstallationItems" />
+      <End Role="Installations" EntitySet="Installations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Installations_dbo_Rooms_RoomsId" Association="NPLabModel.FK_dbo_Installations_dbo_Rooms_RoomsId">
+      <End Role="Rooms" EntitySet="Rooms" />
+      <End Role="Installations" EntitySet="Installations" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="C__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="String" Nullable="false" MaxLength="150" Unicode="true" FixedLength="false" />
+    <Property Name="ContextKey" Type="String" Nullable="false" MaxLength="300" Unicode="true" FixedLength="false" />
+    <Property Name="Model" Type="Binary" Nullable="false" MaxLength="Max" FixedLength="false" />
+    <Property Name="ProductVersion" Type="String" Nullable="false" MaxLength="32" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Cabel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ConductorsCount" Type="Int32" Nullable="false" />
+    <Property Name="Measured" Type="Double" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CabelType" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CabelModel" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="L1" Type="Boolean" Nullable="false" />
+    <Property Name="L2" Type="Boolean" Nullable="false" />
+    <Property Name="L3" Type="Boolean" Nullable="false" />
+    <Property Name="PE" Type="Boolean" Nullable="false" />
+    <Property Name="N" Type="Boolean" Nullable="false" />
+    <Property Name="PEN" Type="Boolean" Nullable="false" />
+    <Property Name="Thickness" Type="Double" Nullable="false" />
+    <Property Name="EL_1Id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="EL_1" Relationship="NPLabModel.FK_dbo_Cabels_dbo_EL_1_EL_1Id" FromRole="Cabels" ToRole="EL_1" />
+  </EntityType>
+  <EntityType Name="EL_1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameOfEngineer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" />
+    <Property Name="SourceVoltage" Type="Int32" Nullable="false" />
+    <Property Name="Min" Type="Double" Nullable="false" />
+    <Property Name="MinMeasured" Type="Int32" Nullable="false" />
+    <Property Name="MaxMeasured" Type="Int32" Nullable="false" />
+    <Property Name="ObjectsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Cabels" Relationship="NPLabModel.FK_dbo_Cabels_dbo_EL_1_EL_1Id" FromRole="EL_1" ToRole="Cabels" />
+    <NavigationProperty Name="Object" Relationship="NPLabModel.FK_dbo_EL_1_dbo_Objects_ObjectsId" FromRole="EL_1" ToRole="Objects" />
+  </EntityType>
+  <EntityType Name="El_2">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameOfEngineer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="isAuto" Type="Boolean" Nullable="false" />
+    <Property Name="ControlDate" Type="DateTime" Nullable="false" />
+    <Property Name="ObjectName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="MinMeasured" Type="Double" Nullable="false" />
+    <Property Name="MaxMeasured" Type="Double" Nullable="false" />
+    <Property Name="Coefficent" Type="Int32" Nullable="false" />
+    <Property Name="ObjectsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Object" Relationship="NPLabModel.FK_dbo_El_2_dbo_Objects_ObjectsId" FromRole="El_2" ToRole="Objects" />
+    <NavigationProperty Name="Sectors" Relationship="NPLabModel.FK_dbo_Sectors_dbo_El_2_El_2Id" FromRole="El_2" ToRole="Sectors" />
+  </EntityType>
+  <EntityType Name="EL_3">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WetSeason" Type="Boolean" Nullable="false" />
+    <Property Name="NameOfEngineer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" />
+    <Property Name="Max" Type="Double" Nullable="false" />
+    <Property Name="ObjectsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Object" Relationship="NPLabModel.FK_dbo_EL_3_dbo_Objects_ObjectsId" FromRole="EL_3" ToRole="Objects" />
+    <NavigationProperty Name="Groundings" Relationship="NPLabModel.FK_dbo_Groundings_dbo_EL_3_EL_3Id" FromRole="EL_3" ToRole="Groundings" />
+  </EntityType>
+  <EntityType Name="EL_3m">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WetSeason" Type="Boolean" Nullable="false" />
+    <Property Name="NameOfEngineer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" />
+    <Property Name="Max" Type="Double" Nullable="false" />
+    <Property Name="ObjectsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Object" Relationship="NPLabModel.FK_dbo_EL_3m_dbo_Objects_ObjectsId" FromRole="EL_3m" ToRole="Objects" />
+    <NavigationProperty Name="LightningGroundings" Relationship="NPLabModel.FK_dbo_LightningGroundings_dbo_EL_3m_EL_3mId" FromRole="EL_3m" ToRole="LightningGroundings" />
+  </EntityType>
+  <EntityType Name="EL_4">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameOfEngineer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" />
+    <Property Name="DTHighest" Type="Double" Nullable="false" />
+    <Property Name="DTLowest" Type="Double" Nullable="false" />
+    <Property Name="DNHighest" Type="Double" Nullable="false" />
+    <Property Name="DNLowest" Type="Double" Nullable="false" />
+    <Property Name="maxDT" Type="Double" Nullable="false" />
+    <Property Name="maxDN" Type="Double" Nullable="false" />
+    <Property Name="ObjectsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Object" Relationship="NPLabModel.FK_dbo_EL_4_dbo_Objects_ObjectsId" FromRole="EL_4" ToRole="Objects" />
+    <NavigationProperty Name="Sectors_El_4" Relationship="NPLabModel.FK_dbo_Sectors_El_4_dbo_EL_4_EL_4Id" FromRole="EL_4" ToRole="Sectors_El_4" />
+  </EntityType>
+  <EntityType Name="Engineer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameOfEngineer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Time" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Floor">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Level" Type="Double" Nullable="false" />
+    <Property Name="NameFloor" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="SectorsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Sector" Relationship="NPLabModel.FK_dbo_Floors_dbo_Sectors_SectorsId" FromRole="Floors" ToRole="Sectors" />
+    <NavigationProperty Name="Rooms" Relationship="NPLabModel.FK_dbo_Rooms_dbo_Floors_FloorsId" FromRole="Floors" ToRole="Rooms" />
+  </EntityType>
+  <EntityType Name="Floors_El_4">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Level" Type="Double" Nullable="false" />
+    <Property Name="NameFloor" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="SectorsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Sectors_El_4" Relationship="NPLabModel.FK_dbo_Floors_El_4_dbo_Sectors_El_4_SectorsId" FromRole="Floors_El_4" ToRole="Sectors_El_4" />
+    <NavigationProperty Name="Rooms_El_4" Relationship="NPLabModel.FK_dbo_Rooms_El_4_dbo_Floors_El_4_Floors_El_4Id" FromRole="Floors_El_4" ToRole="Rooms_El_4" />
+  </EntityType>
+  <EntityType Name="Grounding">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="AuxiliaryGrounding" Type="Double" Nullable="false" />
+    <Property Name="Probe" Type="Double" Nullable="false" />
+    <Property Name="Measured" Type="Double" Nullable="false" />
+    <Property Name="Adjusted" Type="Double" Nullable="false" />
+    <Property Name="EL_3Id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="EL_3" Relationship="NPLabModel.FK_dbo_Groundings_dbo_EL_3_EL_3Id" FromRole="Groundings" ToRole="EL_3" />
+  </EntityType>
+  <EntityType Name="Installation_El_4">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="DateTime" Nullable="false" />
+    <Property Name="InstallationName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="NumberIn" Type="Int32" Nullable="false" />
+    <Property Name="TypeProtector" Type="Int32" Nullable="false" />
+    <Property Name="MaxDT" Type="Double" Nullable="false" />
+    <Property Name="MaxDN" Type="Double" Nullable="false" />
+    <Property Name="DT" Type="Double" Nullable="false" />
+    <Property Name="DN" Type="Double" Nullable="false" />
+    <Property Name="FollowsRequirements" Type="Boolean" Nullable="false" />
+    <Property Name="Rooms_El_4Id" Type="Int32" Nullable="false" />
+    <Property Name="Item_Id" Type="Int32" />
+    <NavigationProperty Name="InstallationItem" Relationship="NPLabModel.FK_dbo_Installation_El_4_dbo_InstallationItems_Item_Id" FromRole="Installation_El_4" ToRole="InstallationItems" />
+    <NavigationProperty Name="Rooms_El_4" Relationship="NPLabModel.FK_dbo_Installation_El_4_dbo_Rooms_El_4_Rooms_El_4Id" FromRole="Installation_El_4" ToRole="Rooms_El_4" />
+  </EntityType>
+  <EntityType Name="InstallationItem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Type" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Installation_El_4" Relationship="NPLabModel.FK_dbo_Installation_El_4_dbo_InstallationItems_Item_Id" FromRole="InstallationItems" ToRole="Installation_El_4" />
+    <NavigationProperty Name="Installations" Relationship="NPLabModel.FK_dbo_Installations_dbo_InstallationItems_Item_Id" FromRole="InstallationItems" ToRole="Installations" />
+  </EntityType>
+  <EntityType Name="Installation">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="InstallationName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="NumberOfInstallation" Type="Int32" Nullable="false" />
+    <Property Name="NumberOfProtector" Type="Int32" />
+    <Property Name="Coefficient" Type="Int32" Nullable="false" />
+    <Property Name="Amperage" Type="Double" Nullable="false" />
+    <Property Name="Impedance" Type="Double" Nullable="false" />
+    <Property Name="Max" Type="Double" Nullable="false" />
+    <Property Name="isAutomaticProtector" Type="Boolean" Nullable="false" />
+    <Property Name="Ofazen" Type="Boolean" Nullable="false" />
+    <Property Name="Reset" Type="Boolean" Nullable="false" />
+    <Property Name="FollowsRequirements" Type="Boolean" Nullable="false" />
+    <Property Name="RoomsId" Type="Int32" Nullable="false" />
+    <Property Name="Item_Id" Type="Int32" />
+    <NavigationProperty Name="InstallationItem" Relationship="NPLabModel.FK_dbo_Installations_dbo_InstallationItems_Item_Id" FromRole="Installations" ToRole="InstallationItems" />
+    <NavigationProperty Name="Room" Relationship="NPLabModel.FK_dbo_Installations_dbo_Rooms_RoomsId" FromRole="Installations" ToRole="Rooms" />
+  </EntityType>
+  <EntityType Name="LightningGrounding">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Count" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Impulsive" Type="Double" Nullable="false" />
+    <Property Name="AuxiliaryGrounding" Type="Double" Nullable="false" />
+    <Property Name="Probe" Type="Double" Nullable="false" />
+    <Property Name="Coef" Type="Double" Nullable="false" />
+    <Property Name="Measured" Type="Double" Nullable="false" />
+    <Property Name="Adjusted" Type="Double" Nullable="false" />
+    <Property Name="EL_3mId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="EL_3m" Relationship="NPLabModel.FK_dbo_LightningGroundings_dbo_EL_3m_EL_3mId" FromRole="LightningGroundings" ToRole="EL_3m" />
+  </EntityType>
+  <EntityType Name="Object">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Client" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ObjectName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Inspector" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="EL_1" Relationship="NPLabModel.FK_dbo_EL_1_dbo_Objects_ObjectsId" FromRole="Objects" ToRole="EL_1" />
+    <NavigationProperty Name="El_2" Relationship="NPLabModel.FK_dbo_El_2_dbo_Objects_ObjectsId" FromRole="Objects" ToRole="El_2" />
+    <NavigationProperty Name="EL_3" Relationship="NPLabModel.FK_dbo_EL_3_dbo_Objects_ObjectsId" FromRole="Objects" ToRole="EL_3" />
+    <NavigationProperty Name="EL_3m" Relationship="NPLabModel.FK_dbo_EL_3m_dbo_Objects_ObjectsId" FromRole="Objects" ToRole="EL_3m" />
+    <NavigationProperty Name="EL_4" Relationship="NPLabModel.FK_dbo_EL_4_dbo_Objects_ObjectsId" FromRole="Objects" ToRole="EL_4" />
+  </EntityType>
+  <EntityType Name="Room">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoomName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FloorsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Floor" Relationship="NPLabModel.FK_dbo_Rooms_dbo_Floors_FloorsId" FromRole="Rooms" ToRole="Floors" />
+    <NavigationProperty Name="Installations" Relationship="NPLabModel.FK_dbo_Installations_dbo_Rooms_RoomsId" FromRole="Rooms" ToRole="Installations" />
+  </EntityType>
+  <EntityType Name="Rooms_El_4">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoomName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Floors_El_4Id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Floors_El_4" Relationship="NPLabModel.FK_dbo_Rooms_El_4_dbo_Floors_El_4_Floors_El_4Id" FromRole="Rooms_El_4" ToRole="Floors_El_4" />
+    <NavigationProperty Name="Installation_El_4" Relationship="NPLabModel.FK_dbo_Installation_El_4_dbo_Rooms_El_4_Rooms_El_4Id" FromRole="Rooms_El_4" ToRole="Installation_El_4" />
+  </EntityType>
+  <EntityType Name="Sector">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SectorName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="El_2Id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="El_2" Relationship="NPLabModel.FK_dbo_Sectors_dbo_El_2_El_2Id" FromRole="Sectors" ToRole="El_2" />
+    <NavigationProperty Name="Floors" Relationship="NPLabModel.FK_dbo_Floors_dbo_Sectors_SectorsId" FromRole="Sectors" ToRole="Floors" />
+  </EntityType>
+  <EntityType Name="Sectors_El_4">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SectorName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="EL_4Id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="EL_4" Relationship="NPLabModel.FK_dbo_Sectors_El_4_dbo_EL_4_EL_4Id" FromRole="Sectors_El_4" ToRole="EL_4" />
+    <NavigationProperty Name="Floors_El_4" Relationship="NPLabModel.FK_dbo_Floors_El_4_dbo_Sectors_El_4_SectorsId" FromRole="Sectors_El_4" ToRole="Floors_El_4" />
+  </EntityType>
+  <Association Name="FK_dbo_Cabels_dbo_EL_1_EL_1Id">
+    <End Role="EL_1" Type="NPLabModel.EL_1" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Cabels" Type="NPLabModel.Cabel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EL_1">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cabels">
+        <PropertyRef Name="EL_1Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_EL_1_dbo_Objects_ObjectsId">
+    <End Role="Objects" Type="NPLabModel.Object" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="EL_1" Type="NPLabModel.EL_1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Objects">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EL_1">
+        <PropertyRef Name="ObjectsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_El_2_dbo_Objects_ObjectsId">
+    <End Role="Objects" Type="NPLabModel.Object" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="El_2" Type="NPLabModel.El_2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Objects">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="El_2">
+        <PropertyRef Name="ObjectsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Sectors_dbo_El_2_El_2Id">
+    <End Role="El_2" Type="NPLabModel.El_2" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Sectors" Type="NPLabModel.Sector" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="El_2">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Sectors">
+        <PropertyRef Name="El_2Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_EL_3_dbo_Objects_ObjectsId">
+    <End Role="Objects" Type="NPLabModel.Object" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="EL_3" Type="NPLabModel.EL_3" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Objects">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EL_3">
+        <PropertyRef Name="ObjectsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Groundings_dbo_EL_3_EL_3Id">
+    <End Role="EL_3" Type="NPLabModel.EL_3" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Groundings" Type="NPLabModel.Grounding" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EL_3">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Groundings">
+        <PropertyRef Name="EL_3Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_EL_3m_dbo_Objects_ObjectsId">
+    <End Role="Objects" Type="NPLabModel.Object" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="EL_3m" Type="NPLabModel.EL_3m" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Objects">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EL_3m">
+        <PropertyRef Name="ObjectsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_LightningGroundings_dbo_EL_3m_EL_3mId">
+    <End Role="EL_3m" Type="NPLabModel.EL_3m" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LightningGroundings" Type="NPLabModel.LightningGrounding" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EL_3m">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="LightningGroundings">
+        <PropertyRef Name="EL_3mId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_EL_4_dbo_Objects_ObjectsId">
+    <End Role="Objects" Type="NPLabModel.Object" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="EL_4" Type="NPLabModel.EL_4" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Objects">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EL_4">
+        <PropertyRef Name="ObjectsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Sectors_El_4_dbo_EL_4_EL_4Id">
+    <End Role="EL_4" Type="NPLabModel.EL_4" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Sectors_El_4" Type="NPLabModel.Sectors_El_4" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EL_4">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Sectors_El_4">
+        <PropertyRef Name="EL_4Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Floors_dbo_Sectors_SectorsId">
+    <End Role="Sectors" Type="NPLabModel.Sector" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Floors" Type="NPLabModel.Floor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sectors">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Floors">
+        <PropertyRef Name="SectorsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Rooms_dbo_Floors_FloorsId">
+    <End Role="Floors" Type="NPLabModel.Floor" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Rooms" Type="NPLabModel.Room" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Floors">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Rooms">
+        <PropertyRef Name="FloorsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Floors_El_4_dbo_Sectors_El_4_SectorsId">
+    <End Role="Sectors_El_4" Type="NPLabModel.Sectors_El_4" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Floors_El_4" Type="NPLabModel.Floors_El_4" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sectors_El_4">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Floors_El_4">
+        <PropertyRef Name="SectorsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Rooms_El_4_dbo_Floors_El_4_Floors_El_4Id">
+    <End Role="Floors_El_4" Type="NPLabModel.Floors_El_4" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Rooms_El_4" Type="NPLabModel.Rooms_El_4" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Floors_El_4">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Rooms_El_4">
+        <PropertyRef Name="Floors_El_4Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Installation_El_4_dbo_InstallationItems_Item_Id">
+    <End Role="InstallationItems" Type="NPLabModel.InstallationItem" Multiplicity="0..1" />
+    <End Role="Installation_El_4" Type="NPLabModel.Installation_El_4" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="InstallationItems">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Installation_El_4">
+        <PropertyRef Name="Item_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Installation_El_4_dbo_Rooms_El_4_Rooms_El_4Id">
+    <End Role="Rooms_El_4" Type="NPLabModel.Rooms_El_4" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Installation_El_4" Type="NPLabModel.Installation_El_4" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms_El_4">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Installation_El_4">
+        <PropertyRef Name="Rooms_El_4Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Installations_dbo_InstallationItems_Item_Id">
+    <End Role="InstallationItems" Type="NPLabModel.InstallationItem" Multiplicity="0..1" />
+    <End Role="Installations" Type="NPLabModel.Installation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="InstallationItems">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Installations">
+        <PropertyRef Name="Item_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Installations_dbo_Rooms_RoomsId">
+    <End Role="Rooms" Type="NPLabModel.Room" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Installations" Type="NPLabModel.Installation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Installations">
+        <PropertyRef Name="RoomsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,84 @@
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll.config
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.pdb
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.dll
+C:\Documents and Settings\HP\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll.config
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.dll
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll.config
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.xml
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.csprojResolveAssemblyReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.dll
+C:\Users\Student.ZALA4-PC13\Desktop\Нова папка\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll.config
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.pdb
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.dll
+C:\Users\USER\Desktop\NPLab\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.pdb
+C:\Users\USER\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll.config
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.pdb
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.dll
+C:\Users\Student\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll.config
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.pdb
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.xml
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.csprojResolveAssemblyReference.cache
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.dll
+C:\Users\Student.ZALA4-PC13\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll.config
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Data.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\NPLab.Models.pdb
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.dll
+C:\Users\Teacher\Desktop\NPLab-master\NPLab.Data\obj\Debug\NPLab.Data.pdb

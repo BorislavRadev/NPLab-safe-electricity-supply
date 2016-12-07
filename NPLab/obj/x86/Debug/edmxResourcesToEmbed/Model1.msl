@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NPLabModelStoreContainer" CdmEntityContainer="NPLabEntities">
+    <EntitySetMapping Name="C__MigrationHistory">
+      <EntityTypeMapping TypeName="NPLabModel.C__MigrationHistory">
+        <MappingFragment StoreEntitySet="__MigrationHistory">
+          <ScalarProperty Name="MigrationId" ColumnName="MigrationId" />
+          <ScalarProperty Name="ContextKey" ColumnName="ContextKey" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="ProductVersion" ColumnName="ProductVersion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cabels">
+      <EntityTypeMapping TypeName="NPLabModel.Cabel">
+        <MappingFragment StoreEntitySet="Cabels">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ConductorsCount" ColumnName="ConductorsCount" />
+          <ScalarProperty Name="Measured" ColumnName="Measured" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="CabelType" ColumnName="CabelType" />
+          <ScalarProperty Name="CabelModel" ColumnName="CabelModel" />
+          <ScalarProperty Name="L1" ColumnName="L1" />
+          <ScalarProperty Name="L2" ColumnName="L2" />
+          <ScalarProperty Name="L3" ColumnName="L3" />
+          <ScalarProperty Name="PE" ColumnName="PE" />
+          <ScalarProperty Name="N" ColumnName="N" />
+          <ScalarProperty Name="PEN" ColumnName="PEN" />
+          <ScalarProperty Name="Thickness" ColumnName="Thickness" />
+          <ScalarProperty Name="EL_1Id" ColumnName="EL_1Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EL_1">
+      <EntityTypeMapping TypeName="NPLabModel.EL_1">
+        <MappingFragment StoreEntitySet="EL_1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NameOfEngineer" ColumnName="NameOfEngineer" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="SourceVoltage" ColumnName="SourceVoltage" />
+          <ScalarProperty Name="Min" ColumnName="Min" />
+          <ScalarProperty Name="MinMeasured" ColumnName="MinMeasured" />
+          <ScalarProperty Name="MaxMeasured" ColumnName="MaxMeasured" />
+          <ScalarProperty Name="ObjectsId" ColumnName="ObjectsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="El_2">
+      <EntityTypeMapping TypeName="NPLabModel.El_2">
+        <MappingFragment StoreEntitySet="El_2">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NameOfEngineer" ColumnName="NameOfEngineer" />
+          <ScalarProperty Name="isAuto" ColumnName="isAuto" />
+          <ScalarProperty Name="ControlDate" ColumnName="ControlDate" />
+          <ScalarProperty Name="ObjectName" ColumnName="ObjectName" />
+          <ScalarProperty Name="MinMeasured" ColumnName="MinMeasured" />
+          <ScalarProperty Name="MaxMeasured" ColumnName="MaxMeasured" />
+          <ScalarProperty Name="Coefficent" ColumnName="Coefficent" />
+          <ScalarProperty Name="ObjectsId" ColumnName="ObjectsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EL_3">
+      <EntityTypeMapping TypeName="NPLabModel.EL_3">
+        <MappingFragment StoreEntitySet="EL_3">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="WetSeason" ColumnName="WetSeason" />
+          <ScalarProperty Name="NameOfEngineer" ColumnName="NameOfEngineer" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Max" ColumnName="Max" />
+          <ScalarProperty Name="ObjectsId" ColumnName="ObjectsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EL_3m">
+      <EntityTypeMapping TypeName="NPLabModel.EL_3m">
+        <MappingFragment StoreEntitySet="EL_3m">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="WetSeason" ColumnName="WetSeason" />
+          <ScalarProperty Name="NameOfEngineer" ColumnName="NameOfEngineer" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Max" ColumnName="Max" />
+          <ScalarProperty Name="ObjectsId" ColumnName="ObjectsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EL_4">
+      <EntityTypeMapping TypeName="NPLabModel.EL_4">
+        <MappingFragment StoreEntitySet="EL_4">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NameOfEngineer" ColumnName="NameOfEngineer" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="DTHighest" ColumnName="DTHighest" />
+          <ScalarProperty Name="DTLowest" ColumnName="DTLowest" />
+          <ScalarProperty Name="DNHighest" ColumnName="DNHighest" />
+          <ScalarProperty Name="DNLowest" ColumnName="DNLowest" />
+          <ScalarProperty Name="maxDT" ColumnName="maxDT" />
+          <ScalarProperty Name="maxDN" ColumnName="maxDN" />
+          <ScalarProperty Name="ObjectsId" ColumnName="ObjectsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Engineers">
+      <EntityTypeMapping TypeName="NPLabModel.Engineer">
+        <MappingFragment StoreEntitySet="Engineers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NameOfEngineer" ColumnName="NameOfEngineer" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Floors">
+      <EntityTypeMapping TypeName="NPLabModel.Floor">
+        <MappingFragment StoreEntitySet="Floors">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="NameFloor" ColumnName="NameFloor" />
+          <ScalarProperty Name="SectorsId" ColumnName="SectorsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Floors_El_4">
+      <EntityTypeMapping TypeName="NPLabModel.Floors_El_4">
+        <MappingFragment StoreEntitySet="Floors_El_4">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="NameFloor" ColumnName="NameFloor" />
+          <ScalarProperty Name="SectorsId" ColumnName="SectorsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Groundings">
+      <EntityTypeMapping TypeName="NPLabModel.Grounding">
+        <MappingFragment StoreEntitySet="Groundings">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="AuxiliaryGrounding" ColumnName="AuxiliaryGrounding" />
+          <ScalarProperty Name="Probe" ColumnName="Probe" />
+          <ScalarProperty Name="Measured" ColumnName="Measured" />
+          <ScalarProperty Name="Adjusted" ColumnName="Adjusted" />
+          <ScalarProperty Name="EL_3Id" ColumnName="EL_3Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Installation_El_4">
+      <EntityTypeMapping TypeName="NPLabModel.Installation_El_4">
+        <MappingFragment StoreEntitySet="Installation_El_4">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="InstallationName" ColumnName="InstallationName" />
+          <ScalarProperty Name="NumberIn" ColumnName="NumberIn" />
+          <ScalarProperty Name="TypeProtector" ColumnName="TypeProtector" />
+          <ScalarProperty Name="MaxDT" ColumnName="MaxDT" />
+          <ScalarProperty Name="MaxDN" ColumnName="MaxDN" />
+          <ScalarProperty Name="DT" ColumnName="DT" />
+          <ScalarProperty Name="DN" ColumnName="DN" />
+          <ScalarProperty Name="FollowsRequirements" ColumnName="FollowsRequirements" />
+          <ScalarProperty Name="Rooms_El_4Id" ColumnName="Rooms_El_4Id" />
+          <ScalarProperty Name="Item_Id" ColumnName="Item_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InstallationItems">
+      <EntityTypeMapping TypeName="NPLabModel.InstallationItem">
+        <MappingFragment StoreEntitySet="InstallationItems">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Installations">
+      <EntityTypeMapping TypeName="NPLabModel.Installation">
+        <MappingFragment StoreEntitySet="Installations">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="InstallationName" ColumnName="InstallationName" />
+          <ScalarProperty Name="NumberOfInstallation" ColumnName="NumberOfInstallation" />
+          <ScalarProperty Name="NumberOfProtector" ColumnName="NumberOfProtector" />
+          <ScalarProperty Name="Coefficient" ColumnName="Coefficient" />
+          <ScalarProperty Name="Amperage" ColumnName="Amperage" />
+          <ScalarProperty Name="Impedance" ColumnName="Impedance" />
+          <ScalarProperty Name="Max" ColumnName="Max" />
+          <ScalarProperty Name="isAutomaticProtector" ColumnName="isAutomaticProtector" />
+          <ScalarProperty Name="Ofazen" ColumnName="Ofazen" />
+          <ScalarProperty Name="Reset" ColumnName="Reset" />
+          <ScalarProperty Name="FollowsRequirements" ColumnName="FollowsRequirements" />
+          <ScalarProperty Name="RoomsId" ColumnName="RoomsId" />
+          <ScalarProperty Name="Item_Id" ColumnName="Item_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LightningGroundings">
+      <EntityTypeMapping TypeName="NPLabModel.LightningGrounding">
+        <MappingFragment StoreEntitySet="LightningGroundings">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Impulsive" ColumnName="Impulsive" />
+          <ScalarProperty Name="AuxiliaryGrounding" ColumnName="AuxiliaryGrounding" />
+          <ScalarProperty Name="Probe" ColumnName="Probe" />
+          <ScalarProperty Name="Coef" ColumnName="Coef" />
+          <ScalarProperty Name="Measured" ColumnName="Measured" />
+          <ScalarProperty Name="Adjusted" ColumnName="Adjusted" />
+          <ScalarProperty Name="EL_3mId" ColumnName="EL_3mId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Objects">
+      <EntityTypeMapping TypeName="NPLabModel.Object">
+        <MappingFragment StoreEntitySet="Objects">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Client" ColumnName="Client" />
+          <ScalarProperty Name="ObjectName" ColumnName="ObjectName" />
+          <ScalarProperty Name="Inspector" ColumnName="Inspector" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rooms">
+      <EntityTypeMapping TypeName="NPLabModel.Room">
+        <MappingFragment StoreEntitySet="Rooms">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RoomName" ColumnName="RoomName" />
+          <ScalarProperty Name="FloorsId" ColumnName="FloorsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rooms_El_4">
+      <EntityTypeMapping TypeName="NPLabModel.Rooms_El_4">
+        <MappingFragment StoreEntitySet="Rooms_El_4">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RoomName" ColumnName="RoomName" />
+          <ScalarProperty Name="Floors_El_4Id" ColumnName="Floors_El_4Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sectors">
+      <EntityTypeMapping TypeName="NPLabModel.Sector">
+        <MappingFragment StoreEntitySet="Sectors">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SectorName" ColumnName="SectorName" />
+          <ScalarProperty Name="El_2Id" ColumnName="El_2Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sectors_El_4">
+      <EntityTypeMapping TypeName="NPLabModel.Sectors_El_4">
+        <MappingFragment StoreEntitySet="Sectors_El_4">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SectorName" ColumnName="SectorName" />
+          <ScalarProperty Name="EL_4Id" ColumnName="EL_4Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
